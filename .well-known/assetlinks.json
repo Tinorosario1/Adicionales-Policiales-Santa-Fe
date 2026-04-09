@@ -1,8 +1,12 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.tinorosario.adicionalespoliciales",
-        "sha256_cert_fingerprints": ["13:0B:B4:A5:31:6B:43:30:F1:82:04:00:67:CD:3E:12:0F:EF:6B:6B:44:74:3C:53:44:FF:BD:C0:87:BE:06:95"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tinorosario.adicionalespoliciales",
+      "sha256_cert_fingerprints": [
+        "13:0B:B4:A5:31:6B:43:30:F1:82:04:00:67:CD:3E:12:0F:EF:6B:6B:44:74:3C:53:44:FF:BD:C0:87:BE:06:95"
+      ]
+    }
+  }
+]
